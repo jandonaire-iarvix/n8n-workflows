@@ -1,4 +1,4 @@
- [🌐 Versión en español](https://github.com/DragonJAR/n8n-workflows-esp/blob/main/README.md) | [🌐 English Version](https://github.com/DragonJAR/n8n-workflows-esp/blob/main/README-ENGLISH.md) | [🖥️ Best n8n hosting](https://djar.co/hostingn8n)
+ [🌐 Versión en español](https://github.com/jandonaire-iarvix/n8n-workflows-esp/blob/main/README.md) | [🌐 English Version](https://github.com/jandonaire-iarvix/n8n-workflows-esp/blob/main/README-ENGLISH.md) | [🖥️ Best n8n hosting](https://djar.co/hostingn8n)
 
 [📲 Free Daily Artificial Intelligence News on your WhatsApp](https://djar.co/iawz)
 
@@ -31,15 +31,15 @@ To import any workflow into your n8n instance, follow these steps:
 4. Review and adjust credentials or webhook URLs as needed.  
 5. Save and run the workflow.
 6. [If you can't find the workflow you need, you can use this Custom GPT to help you find it or solve any problems you have with N8N.](https://chatgpt.com/g/g-6840a79abd348191966dd06abd7236c8-asistente-de-flujos-n8n).
-7. You can also chat with this repository using [https://gitmcp.io/DragonJAR/n8n-workflows-esp/chat](https://gitmcp.io/DragonJAR/n8n-workflows-esp/chat)
+7. You can also chat with this repository using [https://gitmcp.io/jandonaire-iarvix/n8n-workflows-esp/chat](https://gitmcp.io/jandonaire-iarvix/n8n-workflows-esp/chat)
 
 ## 🖥️ MCP Server (Model Context Protocol)
 
 The MCP server for this repository, so you can interact with this great knowledge base with documented n8n workflows, is:
 
-`https://gitmcp.io/DragonJAR/n8n-workflows-esp`
+`https://gitmcp.io/jandonaire-iarvix/n8n-workflows-esp`
 
-[Here you will find the instructions to use it in Cursor, Claude Desktop, Windsurf, VSCode, Cline or Highlight AI](https://gitmcp.io/DragonJAR/n8n-workflows-esp).
+[Here you will find the instructions to use it in Cursor, Claude Desktop, Windsurf, VSCode, Cline or Highlight AI](https://gitmcp.io/jandonaire-iarvix/n8n-workflows-esp).
 
 ## 🤝 Contribution
 
