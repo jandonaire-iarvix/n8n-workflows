@@ -50,9 +50,6 @@ If you discovered an interesting workflow or developed one of your own, feel fre
 
 To propose contributions, open a pull request with your new workflow or improvement.
 
-## ⏯️ Manel contributes this excellent video explanation about the repository.
-
-[![Thanks to Manelautomatic](https://i.imgur.com/fq4Ef0N.png)](https://www.youtube.com/watch?v=9haKti-edOE "Thanks to Manelautomatic for explaining the repository in video")
 
 ## ⚠️ Notice
 
